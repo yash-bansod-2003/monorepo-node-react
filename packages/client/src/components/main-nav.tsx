@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Icons } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { MobileNav } from "@/components/mobile-nav"
+import { MobileNav } from "@/components/mobile-nav";
 
 export const MainNav = () => {
     const [showMobileMenu, setShowMobileMenu] = React.useState<boolean>(false);
