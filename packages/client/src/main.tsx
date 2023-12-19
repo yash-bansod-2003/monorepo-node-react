@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "@fontsource/lato";
+import "@fontsource/inter";
 import App from "./App.tsx";
 import "./styles/index.css";
 
