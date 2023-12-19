@@ -51,7 +51,7 @@
 
 @layer base {
     * {
-        font-family: "Lato", sans-serif;
+        font-family: 'Inter', sans-serif;
         @apply border-border;
     }
 

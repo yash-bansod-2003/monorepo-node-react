@@ -49,7 +49,7 @@ export default {
                 sm: "calc(var(--radius) - 4px)",
             },
             fontFamily: {
-                lato: ["Lato", "sans-serif"],
+                inter: ["Inter", "sans-serif"],
             },
         },
     },
